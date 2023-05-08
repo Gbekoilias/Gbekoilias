@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gbekoilias
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning python and Ml
-- 💞️ I’m looking to collaborate on data science applied project for artificial intelligence
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning Microsoft Excel for Data Analysis
+- 💞️ I’m looking to collaborate on data analysis and management projects to develop reasonable insights and solutions
 - 📫 How to reach me @gbekoilias on twitter 
 
 <!---
