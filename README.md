@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **: [Here is my linkedin profile](https://linkedin.com/in/gbekoilias)**
 
-- ⚡ Fun fact **: I love rading about emerging technologies**
+- ⚡ Fun fact **: I love reading about emerging technologies**
 
 - 📫 portfolio **: [GTA portfolio](https://gbekoilias.github.io)**
 
