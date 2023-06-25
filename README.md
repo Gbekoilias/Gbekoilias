@@ -48,7 +48,7 @@
       height="40"/>
   </a> 
   <a href="https://slack.com/" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/R.3c0594a0472849cdb1928b4faa8167bb?rik=B4Ng4vRt3Z4ONg&pid=ImgRaw&r=0" alt="Slack" width="40" 
+    <img src="https://th.bing.com/th/id/R.3c0594a0472849cdb1928b4faa8167bb?rik=B4Ng4vRt3Z4ONg&pid=ImgRaw&r=0" alt="Slack" width="50" 
       height="40"/>
   </a> 
 </p>
