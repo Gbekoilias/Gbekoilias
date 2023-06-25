@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **: Power BI from DSN N50 days of learning**
 
-- 💬 Ask me about **: Data Analytics, Data Analysis, FTIR Analysis, Machine Learning, Artificial Intelligence**
+- 💬 Ask me about **: Data Analysis, Data Science, FTIR Analysis, Machine Learning, Artificial Intelligence**
 
 - 📫 How to reach me **: [Here is my linkedin profile](https://linkedin.com/in/gbekoilias)**
 
@@ -22,9 +22,42 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/732/732220.png" alt="excel" width="40" height="40"/> </a> 
-</a> <a href="https://powerbi.microsoft.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="Microsoft Power BI" width="40" height="40"/> </a> </a> <a href="https://powerapps.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/microsoft-power-apps-2020.png" alt="Microsoft Power Apps" width="40" height="40"/> </a> </a> <a href="https://powerautomate.microsoft.com/en-us//" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/2x/microsoft-power-automate-2020.png" alt="Microsoft Power Automate" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/128/732/732220.png" alt="excel" width="40" height="40"/>
+  </a> 
+  <a href="https://powerbi.microsoft.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="Microsoft Power BI" width="40" 
+      height="40"/>
+  </a>
+  <a href="https://powerapps.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/fluency/2x/microsoft-power-apps-2020.png" alt="Microsoft Power Apps" width="40" height="40"/>
+  </a> 
+  <a href="https://powerautomate.microsoft.com/en-us//" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/2x/microsoft-power-automate-2020.png" alt="Microsoft Power Automate" width="40" height="40"/>
+  </a>
+</p>
 
 <!---
 Gbekoilias/Gbekoilias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
