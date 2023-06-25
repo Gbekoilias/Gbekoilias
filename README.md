@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **: I love rading about emerging technologies**
 
-- 📫 portfolio **: [Data Analyst portfolio](https://gbekoilias.github.io)**
+- 📫 portfolio **: [GTA portfolio](https://gbekoilias.github.io)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,9 +46,7 @@
   <a href="https://powerbi.microsoft.com/en/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="Microsoft Power BI" width="40" 
       height="40"/>
-  </a>
- 
- 
+  </a> 
 </p>
 
 <!---
