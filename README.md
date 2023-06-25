@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **: Power BI from DSN N50 days of learning**
 
-- 💬 Ask me about **: Data Analysis, Data Science, FTIR Analysis, Machine Learning, Artificial Intelligence**
+- 💬 Ask me about **: Data Analysis, Data Science, FTIR Analysis, Machine Learning and Artificial Intelligence**
 
 - 📫 How to reach me **: [Here is my linkedin profile](https://linkedin.com/in/gbekoilias)**
 
