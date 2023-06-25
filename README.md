@@ -51,6 +51,15 @@
     <img src="https://th.bing.com/th/id/OIP.trYJrHU95GMQOsbz_AIRXAHaE5?pid=ImgDet&rs=1" alt="Slack" width="50" 
       height="40"/>
   </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/OIP.kapbaePNQSJAVkXVvdR88gAAAA?pid=ImgDet&rs=1" alt="Slack" width="50" 
+      height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/R.2d1d1eba45bccd608b82b6f4d82b78de?rik=hxXS9bGrLxAI1g&pid=ImgRaw&r=0" alt="Slack" width="50" 
+      height="40"/>
+  </a>
+ 
 </p>
 
 <!---
