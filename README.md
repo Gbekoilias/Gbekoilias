@@ -1,4 +1,4 @@
-![alt text][https://github.com/Gbekoilias/Gbekoilias/blob/main/GTA%20cover%20photo.jpg?raw=true]
+![alt text][GTA cover photo.jpg]
 - 👋 Hi, I’m @Gbekoilias
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Power BI for Data Analysis
