@@ -1,5 +1,5 @@
-<img align="right" alt="Data Analytics" width="1000" src="https://user-images.githubusercontent.com/106287208/179375188-5d1397ac-1376-453a-9b08-b45b13908741.jpg">
 <img align="right" alt="Data Analytics" width="1000" src=https://github.com/Gbekoilias/Gbekoilias/blob/main/GTA%20cover%20photo.jpg?raw=true">
+
 <h1 align="center">Hi 👋, I'm Ilias Olakunle, Shittu-Gbeko</h1>
 <h3 align="center">Data Analyst | Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/FoVzfcqCDSb7zCynOp/200w.webp?cid=ecf05e47tjmypqnuyon043qkaq2p89yasrd53uwz7ka1mjtw&rid=200w.webp&ct=g">
