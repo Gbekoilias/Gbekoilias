@@ -10,15 +10,15 @@
 
 - 📫 How to reach me **: [Here is my linkedin profile](https://linkedin.com/in/gbekoilias)**
 
-- ⚡ Fun fact **: I love playing basketball**
+- ⚡ Fun fact **: I love rading about emerging technologies**
 
 - 📫 portfolio **: [Data Analyst portfolio](https://gbekoilias.github.io)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_globalsmile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_globalsmile" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammed-badmus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-badmus" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohammedbadmus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohammedbadmus" height="30" width="40" /></a>
+<a href="https://twitter.com/Gbekoilias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gbekoilias" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gbekoilias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gbekoilias" height="30" width="40" /></a>
+<a href="https://kaggle.com/gbekoilias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gbekoilias" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
