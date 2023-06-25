@@ -47,6 +47,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="Microsoft Power BI" width="40" 
       height="40"/>
   </a> 
+  <a href="https://slack.com/" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/R.3c0594a0472849cdb1928b4faa8167bb?rik=B4Ng4vRt3Z4ONg&pid=ImgRaw&r=0" alt="Slack" width="40" 
+      height="40"/>
+  </a> 
 </p>
 
 <!---
