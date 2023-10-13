@@ -20,7 +20,7 @@
 <a href="https://kaggle.com/gbekoilias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gbekoilias" height="60" width="60" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
  
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
