@@ -1,6 +1,6 @@
 <img align="right" alt="Data Analytics" width="1000" src="https://github.com/Gbekoilias/Gbekoilias/blob/main/GTA%20cover%20photo.jpg">
 
-<h1 align="center">Hi 👋, ## I'm Ilias Olakunle, Shittu-Gbeko</h1>
+<h1 align="center">Hi 👋,  I'm Ilias Olakunle, Shittu-Gbeko</h1>
 <h3 align="center">Data Analyst | Data Storyteller</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/FoVzfcqCDSb7zCynOp/200w.webp?cid=ecf05e47tjmypqnuyon043qkaq2p89yasrd53uwz7ka1mjtw&rid=200w.webp&ct=g">
 
