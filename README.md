@@ -51,7 +51,7 @@
       height="80"/>
   </a> 
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/OIP.kapbaePNQSJAVkXVvdR88gAAAA?pid=ImgDet&rs=1" alt="Slack" width="80" 
+    <img src="https://th.bing.com/th/id/OIP.kapbaePNQSJAVkXVvdR88gAAAA?pid=ImgDet&rs=1"  width="80" 
       height="80"/>
   </a>
   <a href="https://matplotlib.org/" rel="noreferrer">
