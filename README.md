@@ -24,35 +24,35 @@
 <p align="left">
  
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/128/732/732220.png" alt="excel" width="60" height="60"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/732/732220.png" alt="excel" width="40" height="40"/>
   </a> 
   <a href="https://powerbi.microsoft.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="Microsoft Power BI" width="60" 
-      height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="Microsoft Power BI" width="40" 
+      height="40"/>
   </a> 
   <a href="https://slack.com/" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/OIP.trYJrHU95GMQOsbz_AIRXAHaE5?pid=ImgDet&rs=1" alt="Slack" width="60" 
-      height="60"/>
+    <img src="https://th.bing.com/th/id/OIP.trYJrHU95GMQOsbz_AIRXAHaE5?pid=ImgDet&rs=1" alt="Slack" width="40" 
+      height="40"/>
   </a> 
   <a href="https://matplotlib.org/" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/R.2d1d1eba45bccd608b82b6f4d82b78de?rik=hxXS9bGrLxAI1g&pid=ImgRaw&r=0" alt="Slack" width="60" 
-      height="60"/>
+    <img src="https://th.bing.com/th/id/R.2d1d1eba45bccd608b82b6f4d82b78de?rik=hxXS9bGrLxAI1g&pid=ImgRaw&r=0" alt="Slack" width="40" 
+      height="40"/>
   </a>
  
 </p>
