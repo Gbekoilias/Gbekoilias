@@ -17,14 +17,14 @@
 <a href="https://linkedin.com/in/gbekoilias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gbekoilias" height="40" width="40" /></a>
 <a href="https://kaggle.com/gbekoilias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gbekoilias" height="40" width="40" /></a>
 </p>
-
+<!---
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
- 
+ <!---
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
- 
+ <!---
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -52,7 +52,7 @@
     <img src="https://th.bing.com/th/id/R.2d1d1eba45bccd608b82b6f4d82b78de?rik=hxXS9bGrLxAI1g&pid=ImgRaw&r=0" alt="Slack" width="40" 
       height="40"/>
   </a>
- 
+ <!---
 </p>
 
 <!---
