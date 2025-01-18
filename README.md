@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **: I love reading about emerging technologies**
 
-- 📫 portfolio **: [GTA portfolio](https://gbekoilias.github.io)**
+- 📫 portfolio **: [GTA portfolio](https://shorturl.at/efnIp)**
 
 
 ##
