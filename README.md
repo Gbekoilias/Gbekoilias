@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,  I'm Ilias Olakunle, Shittu-Gbeko</h1>
 <h3 align="center"> Research | Writing </h3>
-<img align="Center" alt="Coding" width="400" src="https://github.com/Gbekoilias/Gbekoilias/blob/main/Screenshot%20(725).png"> 
-
+<img align="right" alt="Coding" width="400" src="https://github.com/Gbekoilias/Gbekoilias/blob/main/Screenshot%20(725).png"> 
+<img align="left" alt="Coding" width="400" src="https://github.com/Gbekoilias/Gbekoilias/blob/main/Screenshot%20(726).png"> 
 
 - 💬 Ask me about **: Engineering**
 
