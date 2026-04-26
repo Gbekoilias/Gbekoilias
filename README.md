@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,  I'm Ilias Olakunle, Shittu-Gbeko</h1>
+<h1 align="center">Hi 👋,  I'm Ilias </h1>
 <h3 align="center"> I love SCIENCE </h3>
 
 - 💬 Ask me about **: Engineering**
